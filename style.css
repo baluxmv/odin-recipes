@@ -56,9 +56,11 @@ ul.recipe-list li {
 
 
 ol.steps-list {
+    max-width: 90%;
 }
 
 ol.steps-list li {
+
 }
 
 
