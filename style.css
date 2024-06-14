@@ -42,6 +42,8 @@ ul.recipe-list {
 */
 ul.recipe-list li {
     padding: 10px; /* Adds space between each list item */
+    border: 1px solid #eee; /* Light border around each item */
+    border-radius: 5px; /* Rounded corners for each item */
 
 }
 
