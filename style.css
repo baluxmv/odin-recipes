@@ -13,6 +13,12 @@ h1, h3 {
     color: #333;
 }
 
+
+a {
+    color: #333;
+}
+
+
 li a {
     color: #333;
     text-decoration: none; /* Make text not have an underline */
