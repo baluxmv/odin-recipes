@@ -64,7 +64,7 @@ ol.steps-list li {
 }
 
 ul.ingredients-list {
-
+    max-width: 90%;
 }
 
 ul.ingredients-list li {
